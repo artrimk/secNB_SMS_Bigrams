@@ -9,7 +9,7 @@ The source code for the original and the improved secure training and classifica
  
 Link to the paper(s):
 1) https://ieeexplore.ieee.org/document/9314152
-2) TBS
+2) TBD
 
 Video presentation(s) of the paper:
 1) https://www.youtube.com/watch?v=P_GxSmAwDfg&list=PLN2gEfNq4GvfUYJx1aBE7R8bIAXt4JK2P
