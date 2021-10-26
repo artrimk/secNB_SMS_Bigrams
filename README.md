@@ -15,7 +15,10 @@ Video presentation(s) of the paper:
 1) https://www.youtube.com/watch?v=P_GxSmAwDfg&list=PLN2gEfNq4GvfUYJx1aBE7R8bIAXt4JK2P
 2) TBD
 
-Open the solution using Visual Studio 2017. Set the SEALExamples as the start-up project. The implementation uses Microsoft's SEAL library v3.2 found in https://github.com/microsoft/SEAL
+Link to the dataset: 
+SMS Spam Collection v.1 Data Set. Accessed: Jun. 2021. [Online]. Available: http://www.dt.fee.unicamp.br/~tiago/smsspamcollection
+
+The pre-processed dataset is already included with the uploaded secNB_SMS_Bigrams.rar package of the project. Just download & extract it and open the solution using Visual Studio 2017 or any other IDE of your choice. Set the SEALExamples as the start-up project. The implementation uses Microsoft's SEAL library v3.2 found in https://github.com/microsoft/SEAL
 For better communication and computation costs (performances), run the code in Release mode. 
 
 For any inqueries you can contact me by artrimq@gmail.com or artrimk@sabanciuniv.edu
