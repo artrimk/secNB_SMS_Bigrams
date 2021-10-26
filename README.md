@@ -12,7 +12,7 @@ Link to the paper(s):
 2) TBS
 
 Video presentation(s) of the paper:
-1) https://www.youtube.com/watch?v=4d3G5AmfbHU&list=PLN2gEfNq4GvfUYJx1aBE7R8bIAXt4JK2P&index=1
+1) https://www.youtube.com/watch?v=P_GxSmAwDfg&list=PLN2gEfNq4GvfUYJx1aBE7R8bIAXt4JK2P
 2) TBD
 
 Open the solution using Visual Studio 2017. Set the SEALExamples as the start-up project. The implementation uses Microsoft's SEAL library v3.2 found in https://github.com/microsoft/SEAL
